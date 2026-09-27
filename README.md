@@ -13,8 +13,10 @@ dependencies — the whole package is the standard library.
 
 ## Install
 
+Not on PyPI yet, so install it from the repository:
+
 ```
-pip install runway-unitcost
+pip install git+https://github.com/dhyabi2/runway-unitcost
 ```
 
 Or just vendor the `runway_unitcost/` directory; it has no dependencies.
